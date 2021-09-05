@@ -1,0 +1,1 @@
+Tohle je kubuv prvni projekt.
